@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nataweb
-- 👀 I’m interested in C#,ASP NET Core Web API,MVC
-- 🌱 I’m currently learning Web API
+- 👀 I’m interested in Python,libraries Python for working with data analysis
+- 🌱 I’m currently learning Python, Pandas, Matplotlib, NumPy, Polars, ScikitLearn
 - 📫 How to reach me webmasternatalia777@gmail.com
 
 <!---
