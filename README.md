@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nataweb
+- 👋 Hi, I’m Natalia
 - 👀 I’m interested in Python,libraries Python for working with data analysis
 - 🌱 I’m currently learning Python, Pandas, Matplotlib, NumPy, Polars, ScikitLearn.
 - Using SQL, Excel, Google Sheets for data analysis. 
