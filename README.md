@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Natalia
 - 👀 I’m interested in Python,libraries Python for working with data analysis
 - 🌱 I’m currently learning Python, Pandas, Matplotlib, NumPy, Polars, ScikitLearn.
-- Using SQL, Excel, Google Sheets for data analysis. 
+- Using SQL, Excel, Google Sheets,Tableau,Power BI for data analysis. 
 - 📫 How to reach me webmasternatalia777@gmail.com
 
 <!---
